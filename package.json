@@ -18,7 +18,7 @@
   "homepage": "https://github.com/alsdilorenzo/lab5-rest-express#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.4",
     "sqlite3": "^4.2.0"
